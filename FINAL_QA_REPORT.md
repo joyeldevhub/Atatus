@@ -1,8 +1,5 @@
 # OpenTelemetry QA Validation Report
 **Assignment:** Node.js OpenTelemetry Validation  
-**Date:** $(date)  
-**Tester:** QA Engineer  
-**Duration:** 4 hours  
 
 ## Executive Summary
 
@@ -40,7 +37,7 @@ node app.js
 ## Test Execution Results
 
 ### **✅ Task 1: Basic Verification**
-**Objective:** Ensure app runs and OpenTelemetry initializes correctly
+**Objective:** Ensure the app runs and OpenTelemetry initializes correctly
 
 **Tests Performed:**
 - Application startup validation
