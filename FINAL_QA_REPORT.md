@@ -380,8 +380,3 @@ node task5-failure-simulation.js
 curl http://localhost:9090/metrics
 ```
 
-### **Contact Information**
-For questions about this implementation or additional testing requirements, please contact the QA team.
-
----
-*Report generated as part of OpenTelemetry QA Assignment - All tasks completed successfully*
